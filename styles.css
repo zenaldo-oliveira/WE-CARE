@@ -78,5 +78,70 @@ p {
     font-size: 35px;
     line-height: 34px;
     color: #000000;
+}
+@media screen and (max-width: 790px){
+    div {
+        width: 100%;
+        height: 50vh;
+        padding: 0;
+        margin: 0;
+    }
+    header {
+        display: block;
+        display: none;
+        padding: 60px;
+        margin: auto;
+    }
+    img {
+        width: 385px;
+        height: 442px;
+        margin-top: 150px;
+        margin-right: 80px;
+        margin-bottom: 50px;
+        margin-left: 59px;
 
+
+    }
+    selection {
+        padding: 100vh;
+        margin: 50px;
+
+    }
+    h1 {
+        font-size: 55px;
+        line-height: 50px;
+        width: 263px;
+        height: 52px;
+        text-align: center;
+        margin: 24.5px 79px 17px 150px; 
+    }
+       
+    h2 {
+        font-size: 30px;
+        line-height: 37px;
+        width: 232px;
+        height: 37px;
+        text-align: center;
+        margin: 13px 19px 23px 164px; 
+    }
+    p {
+        display: none;
+    }
+    
+    .button-main {
+        margin: 0 auto;
+        margin-right: 64px;
+        display: block;
+        width: 239px;
+        height: 70px;
+        border-radius: 35px;
+        color: rgba(172,255,0, 1);
+        width: 305px;
+        height: 71px;
+        top: 15px;
+        left: 46px;
+        color:rgba(0, 0, 0, 1);
+    }
+
+    
 }
