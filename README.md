@@ -13,4 +13,4 @@ Este é um projeto de desenvolvimento web responsivo, criado para proporcionar u
 <img src="https://github.com/zenaldo-oliveira/We-Care/blob/main/assetes/Captura%20de%20tela%202024-03-06%20062425.png?raw=true" alt="img-logo"/>
  <br>
  <br>
-<img src="" alt="img-responsivo"/>
+<img src="https://github.com/zenaldo-oliveira/We-Care/blob/main/assetes/Captura%20de%20tela%202024-03-06%20062916.png?raw=true" alt="img-responsivo"/>
