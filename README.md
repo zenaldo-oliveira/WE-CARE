@@ -1,5 +1,5 @@
 <h1 aling="center">
-<h2> 💥we-care</h2>
+<h2> 🚀we-care 🚀</h2>
 </h1>
 <h3>Esse foi um projeto que eu aprendi no <a href="https://www.figma.com/file/LzA0ntQdfERw4z41hxvLSs/13.-(Positive)-Congratulation-You-get-40-point-for-your-ride?type=design&node-id=0-1&mode=design&t=DHf9bzOT6gLlzXVo-0">FIGMA</a>We-Care</h3>
 <h4>tecnologias ultilizadas</h4>
