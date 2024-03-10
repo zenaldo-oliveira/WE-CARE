@@ -10,7 +10,7 @@
 Este é um projeto de desenvolvimento web responsivo, criado para proporcionar uma experiência de usuário otimizada em uma variedade de dispositivos e tamanhos de tela. Seja bem-vindo e explore nossa solução flexível e adaptável para criar interfaces atraentes em qualquer dispositivo!
 <p/>
  <h4>▶️ Projeto disponivel 🕦<a href=""▶️>We-Care</a></h4>
-<img src="" alt="img-logo"/>
+<img src="https://github.com/zenaldo-oliveira/We-Care/blob/main/assetes/Captura%20de%20tela%202024-03-06%20062425.png?raw=true" alt="img-logo"/>
  <br>
  <br>
 <img src="" alt="img-responsivo"/>
